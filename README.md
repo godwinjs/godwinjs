@@ -1,4 +1,4 @@
-<p align="center"><a href="https://godwinjs.github.io">Hello, Godwin here! 🚀📗</a></p>
+<p align="center"><a href="https://godwinjs.github.io"><h1 align="center"><b>Hello, Godwin here! 🚀📗</h1></a></p>
 
 <br />
 
@@ -25,18 +25,18 @@ I'm a self-taught passionate fullstack developer with 3 years of practical exper
 #### Top Repositories
 
 
-<a href="https://github.com/godwinjs/github-readme-stats">
+<a href="https://github.com/godwinjs/Forte">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=godwinjs&repo=github-readme-stats&theme=buefy" />
 </a>
-<a href="https://github.com/godwinjs/godwinjs.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=godwinjs&repo=godwinjs.github.io&theme=buefy" />
+<a href="https://github.com/godwinjs/tailcomponents">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=godwinjs&repo=anuraghazra.github.io&theme=buefy" />
 </a>
 
 <br />
 <br />
 
 <a href="https://twitter.com/godwinmicheals">
-  <img align="right" alt="Godwin | Twitter" width="21px" src="<a href="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" />
+  <img align="right" alt="Godwin | Twitter" width="21px" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" />
 </a>
 <a href="https://www.linkedin.com/in/godwin-ikechukwu-677881254">
   <img align="right" alt="Godwin Ogbodo | LinkedIn" width="20px" src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" />
