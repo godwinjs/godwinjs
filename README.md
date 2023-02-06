@@ -25,8 +25,8 @@ I'm a self-taught passionate fullstack developer with 3 years of practical exper
 #### Top Repositories
 
 
-<a href="https://github.com/godwinjs/Forte">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=godwinjs&repo=Forte&count_private=true&theme=tokyonight" />
+<a href="https://github.com/godwinjs/AlgorithmLib">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=godwinjs&repo=AlgorithmLibe&theme=tokyonight" />
 </a>
 <a href="https://github.com/godwinjs/tailcomponents">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=godwinjs&repo=tailcomponents&theme=gruvbox" />
