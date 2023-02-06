@@ -19,7 +19,7 @@ I'm a self-taught passionate fullstack developer with 3 years of practical exper
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
-| <a href="https://github.com/godwinjs/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=godwinjs&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/godwinjs/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godwinjs&layout=compact&theme=grovebox&hide_border=true" /></a> |
+| <a href="https://github.com/godwinjs/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=godwinjs&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/godwinjs/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godwinjs&layout=compact&theme=gruvbox&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
@@ -29,11 +29,10 @@ I'm a self-taught passionate fullstack developer with 3 years of practical exper
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=godwinjs&repo=forte&theme=tokyonight" />
 </a>
 <a href="https://github.com/godwinjs/tailcomponents">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=tailcomponent&theme=grovebox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=godwinjs&repo=tailcomponent&theme=gruvbox" />
 </a>
 
 <br />
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=godwin&repo=tailcomponents)](https://github.com/godwinjs/tailcomponents)
 <br />
 
 <a href="https://twitter.com/godwinmicheals">
