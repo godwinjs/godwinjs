@@ -26,7 +26,7 @@ I'm a self-taught passionate fullstack developer with 3 years of practical exper
 
 
 <a href="https://github.com/godwinjs/AlgorithmLib">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=godwinjs&repo=AlgorithmLibe&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=godwinjs&repo=AlgorithmLib&theme=tokyonight" />
 </a>
 <a href="https://github.com/godwinjs/tailcomponents">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=godwinjs&repo=tailcomponents&theme=gruvbox" />
