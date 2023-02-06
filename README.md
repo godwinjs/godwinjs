@@ -26,10 +26,10 @@ I'm a self-taught passionate fullstack developer with 3 years of practical exper
 
 
 <a href="https://github.com/godwinjs/Forte">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=godwinjs&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=godwinjs&repo=forte&theme=buefy" />
 </a>
 <a href="https://github.com/godwinjs/tailcomponents">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=godwinjs&repo=anuraghazra.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=godwinjs&repo=tailcomponents.github.io&theme=buefy" />
 </a>
 
 <br />
