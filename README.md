@@ -35,7 +35,7 @@ I'm a self-taught passionate fullstack developer with 3 years of practical exper
 <br />
 <br />
 
-<a href="https://twitter.com/godwinmicheals">
+<a href="https://twitter.com/godwin_micheals">
   <img align="right" alt="Godwin | Twitter" width="21px" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" />
 </a>
 <a href="https://www.linkedin.com/in/godwin-ikechukwu-677881254">
