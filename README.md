@@ -2,7 +2,7 @@
 
 <br />
 
-I'm a self-taught passionate fullstack developer with 4 years of practical experience in software development.
+I'm a self-taught passionate fullstack developer with years of practical experience in software development.
 
 **About me**
 
