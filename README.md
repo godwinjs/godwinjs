@@ -6,7 +6,7 @@ I'm a self-taught passionate fullstack developer with years of practical experie
 
 **About me**
 
-- 💼 Fullstack Engineer at [Buynari](http://buynari.cm/)
+- 💼 Fullstack Engineer
 
 - ❤️ I love writing TypeScript, and building fun experiments on type-level
 
