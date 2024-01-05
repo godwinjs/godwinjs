@@ -25,8 +25,8 @@ I'm a self-taught passionate fullstack developer with years of practical experie
 #### Top Repositories
 
 
-<a href="https://github.com/godwinjs/AlgorithmLib">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=godwinjs&repo=AlgorithmLib&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/godwinjs/walletwallie">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=godwinjs&repo=walletwallie&theme=tokyonight&hide_border=true" />
 </a>
  <a href="https://github.com/godwinjs/tailcomponents">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=godwinjs&repo=tailcomponents&theme=gruvbox&hide_border=true" />
@@ -35,7 +35,7 @@ I'm a self-taught passionate fullstack developer with years of practical experie
 <br />
 <br />
 
-<a href="https://twitter.com/godwin_micheals">
+<a href="https://twitter.com/GodwinCod3s">
   <img align="right" alt="Godwin | Twitter" width="21px" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" />
 </a>
 <a href="https://www.linkedin.com/in/godwin-ikechukwu-677881254">
