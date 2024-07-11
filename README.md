@@ -28,7 +28,7 @@ I'm a self-taught passionate fullstack developer with years of practical experie
 <a href="https://github.com/godwinjs/walletwallie">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=godwinjs&repo=walletwallie&theme=tokyonight&hide_border=true" />
 </a>
- <a href="https://github.com/godwinjs/tailcomponents">
+ <a href="https://github.com/godwinjs/gymbuddy">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=godwinjs&repo=tailcomponents&theme=gruvbox&hide_border=true" />
 </a>
 
