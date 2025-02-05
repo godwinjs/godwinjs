@@ -22,6 +22,12 @@ I'm a self-taught passionate fullstack developer with years of practical experie
 <a href="https://github.com/godwinjs/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=godwinjs&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=godwinjs&langs_count=20"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godwinjs&layout=compact&theme=gruvbox&hide_border=true" /></a>
 
+### Coding Time
+
+<a href="https://github-readme-stats.vercel.app/api/wakatime?username=godwin_io">
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=godwin_io&layout=compact&theme=gruvbox&hide_border=true" />
+</a>
+
 #### Top Repositories
 
 
