@@ -19,23 +19,23 @@ I'm a self-taught passionate fullstack developer with years of practical experie
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
-<a href="https://github.com/godwinjs/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=godwinjs&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=godwinjs&langs_count=20"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godwinjs&layout=compact&theme=gruvbox&hide_border=true" /></a>
+<a href="https://github.com/godwinjs/"><img align="center" src="https://godwinstats.vercel.app/api?username=godwinjs&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=godwinjs&langs_count=20"><img align="center" src="https://godwinstats.vercel.app/api/top-langs/?username=godwinjs&layout=compact&theme=gruvbox&hide_border=true" /></a>
 
 ### Coding Time
 
-<a href="https://github-readme-stats.vercel.app/api/wakatime?username=godwin_io">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=godwin_io&layout=compact&theme=gruvbox&hide_border=true" />
+<a href="https://godwinstats.vercel.app/api/wakatime?username=godwin_io">
+<img align="center" src="https://godwinstats.vercel.app/api/wakatime?username=godwin_io&layout=compact&theme=gruvbox&hide_border=true" />
 </a>
 
 #### Top Repositories
 
 
 <a href="https://github.com/godwinjs/walletwallie">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=godwinjs&repo=walletwallie&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://godwinstats.vercel.app/api/pin/?username=godwinjs&repo=walletwallie&theme=tokyonight&hide_border=true" />
 </a>
  <a href="https://github.com/godwinjs/chatgemini">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=godwinjs&repo=chatgemini&theme=gruvbox&hide_border=true" />
+  <img align="center" src="https://godwinstats.vercel.app/api/pin/?username=godwinjs&repo=chatgemini&theme=gruvbox&hide_border=true" />
 </a>
 
 <br />
