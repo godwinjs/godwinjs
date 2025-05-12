@@ -21,14 +21,14 @@ I'm a self-taught passionate fullstack developer with years of practical experie
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=godwinjs&show_icons=true&theme=dark&include_all_commits=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=godwinjs&show_icons=true&theme=dark&include_all_commits=true&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=godwinjs&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=godwinjs&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Godwin's github stats" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=godwinjs&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Godwin's github stats" />
 </picture>
 
 <a href="https://godwinstats.vercel.app/api/top-langs/?username=godwinjs&langs_count=20"><img align="center" src="https://godwinstats.vercel.app/api/top-langs/?username=godwinjs&layout=compact&theme=gruvbox&hide_border=true" /></a>
