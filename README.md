@@ -22,9 +22,7 @@ I'm a self-taught passionate fullstack developer with years of practical experie
 <!-- https://github-readme-stats.vercel.app -->
 <!--<a href="https://github.com/"><img align="center" src="https://godwinstats.vercel.app/api?username=godwinjs&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Godwin's github stats" /></a> | <a href="https://godwinstats.vercel.app/api/top-langs/?username=godwinjs&langs_count=20"><img align="center" src="https://godwinstats.vercel.app/api/top-langs/?username=godwinjs&layout=compact&theme=gruvbox&hide_border=true" /></a>-->
 
- <a href="https://godwinstats.vercel.app/api/?username=godwinjs&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" ><img align="center" src="https://github-readme-stats.vercel.app/api?username=godwinjs&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Godwin's github stats" /></a>
-  
-<a href="https://godwinstats.vercel.app/api/top-langs/?username=godwinjs&langs_count=20"><img align="center" src="https://godwinstats.vercel.app/api/top-langs/?username=godwinjs&layout=compact&theme=gruvbox&hide_border=true" /></a>
+ <a href="https://godwinstats.vercel.app/api/?username=godwinjs&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" ><img align="center" src="https://github-readme-stats.vercel.app/api?username=godwinjs&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Godwin's github stats" /></a> <a href="https://godwinstats.vercel.app/api/top-langs/?username=godwinjs&langs_count=20"><img align="center" src="https://godwinstats.vercel.app/api/top-langs/?username=godwinjs&layout=compact&theme=gruvbox&hide_border=true" /></a>
 
 ### Coding Time
 
