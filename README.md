@@ -19,7 +19,7 @@ I'm a self-taught passionate fullstack developer with years of practical experie
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 
 
-<div><picture style="display: inline;">
+<!-- <div><picture style="display: inline;">
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=godwinjs&show_icons=true&theme=dark&include_all_commits=true&hide_border=true"
     media="(prefers-color-scheme: dark)"
@@ -29,8 +29,10 @@ I'm a self-taught passionate fullstack developer with years of practical experie
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <a href="https://godwinstats.vercel.app/api/top-langs/?username=godwinjs&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" ><img  src="https://github-readme-stats.vercel.app/api?username=godwinjs&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Godwin's github stats" /></a>
-</picture>
+</picture> -->
 
+  <a href="https://godwinstats.vercel.app/api/?username=godwinjs&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" ><img  src="https://github-readme-stats.vercel.app/api?username=godwinjs&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Godwin's github stats" /></a>
+  
 <a href="https://godwinstats.vercel.app/api/top-langs/?username=godwinjs&langs_count=20"><img align="center" src="https://godwinstats.vercel.app/api/top-langs/?username=godwinjs&layout=compact&theme=gruvbox&hide_border=true" /></a></div>
 
 ### Coding Time
