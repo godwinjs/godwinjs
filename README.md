@@ -44,6 +44,29 @@
 
 ---
 
+### 🤝 Let’s Work Together
+
+I'm actively open to:
+- 🌍 Remote Fullstack, Frontend, and Backend Roles
+- ⚙️ Freelance Projects
+- 🤝 AI/LLM Collaboration
+- 🧪 Open-source Maintainer Work
+
+Feel free to reach out if you're building something ambitious or want a reliable engineer in your corner!
+
+<a href="https://twitter.com/GodwinCod3s">
+  <img align="left" alt="Godwin | Twitter" width="24px" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" />
+</a>
+<a href="https://www.linkedin.com/in/godwin-ikechukwu-677881254">
+  <img align="left" alt="Godwin | LinkedIn" width="24px" src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" />
+</a>
+
+---
+
+> 💬 Want to collaborate? [Open an issue](https://github.com/godwinjs/godwinjs/issues) or [DM me](https://twitter.com/GodwinCod3s)
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -72,23 +95,19 @@
 
 ---
 
-### 🤝 Let’s Work Together
+### 🏆 GitHub Trophies
 
-I'm actively open to:
-- 🌍 Remote Fullstack Roles
-- ⚙️ Freelance Projects
-- 🤝 AI/LLM Collaboration
-- 🧪 Open-source Maintainer Work
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=godwinjs&theme=algolia&margin-w=15&margin-h=15&no-frame=true" />
+</p>
 
-Feel free to reach out if you're building something ambitious or want a reliable engineer in your corner!
+### 🚧 Currently Building
 
-<a href="https://twitter.com/GodwinCod3s">
-  <img align="left" alt="Godwin | Twitter" width="24px" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" />
-</a>
-<a href="https://www.linkedin.com/in/godwin-ikechukwu-677881254">
-  <img align="left" alt="Godwin | LinkedIn" width="24px" src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" />
-</a>
+<p>
+  <img alt="Next.js 14" src="https://img.shields.io/badge/Next.js%2014-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-AI-green?style=for-the-badge&logo=openai&logoColor=white" />
+  <img alt="RAG Chatbot" src="https://img.shields.io/badge/RAG%20Chatbot-Embedding-blueviolet?style=for-the-badge&logo=chatbot&logoColor=white" />
+  <img alt="Fine-tuned GPT Assistants" src="https://img.shields.io/badge/GPT%20Assistants-Fine--tuned-orange?style=for-the-badge&logo=openai" />
+  <img alt="CLI Tools" src="https://img.shields.io/badge/CLI%20Tools-Custom-blue?style=for-the-badge&logo=terminal" />
+</p>
 
----
-
-> 💬 Want to collaborate? [Open an issue](https://github.com/godwinjs/godwinjs/issues) or [DM me](https://twitter.com/GodwinCod3s)
