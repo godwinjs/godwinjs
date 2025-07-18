@@ -14,7 +14,7 @@
 - ⚡ High-converting e-commerce platforms
 - 💬 AI-powered chatbots using **LangChain**, GPT models, and prompt engineering
 - 📊 Admin dashboards & analytics tools
-- 📚 Book swap & author platforms with real-time features and smart recommendations
+- 📚 Book swap & author platforms with real-time features, ERP connection and smart recommendations
 - 🧩 Custom developer tooling (CLIs, formatters, VS Code extensions)
 
 ---
