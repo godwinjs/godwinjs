@@ -6,7 +6,7 @@
 
 ---
 
-🚀 **I’m Godwin Ogbodo**, a self-taught **Fullstack JavaScript Engineer** with over 4 years of experience building scalable, data-driven web apps with clean architecture and smooth user experiences.
+🚀 **I’m Godwin Ogbodo**, a self-taught **Fullstack JavaScript Engineer** with over 5 years of experience building scalable, data-driven web apps with clean architecture and smooth user experiences.
 
 🛠 I specialize in fullstack development using **React**, **Next.js**, **Node.js**, **MongoDB**, and **TypeScript** — and I don’t shy away from low-level debugging, custom tooling, or pushing production-ready features under tight deadlines.
 
