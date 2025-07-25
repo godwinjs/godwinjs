@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://godwinfolio.vercel.app/">
+  <a href="https://www.linkedin.com/in/godwin-ikechukwu-677881254">
     <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=600&pause=1000&color=1B3E71&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Godwin+Ogbodo!+%F0%9F%9A%80;Fullstack+Engineer+%7C+Problem+Solver+%7C+AI+Builder;Next.js+%E2%9D%A4%EF%B8%8F+Node.js+%E2%9D%A4%EF%B8%8F+MongoDB+%E2%9D%A4%EF%B8%8F+TypeScript" alt="Typing SVG" />
   </a>
 </p>
